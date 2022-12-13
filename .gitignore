@@ -1,0 +1,13 @@
+# 通用文件
+.DS_STORE
+.syncthing.*
+
+# 游戏代码
+/app/gameComponent/paodekuai
+/app/gameComponent/majiang
+/app/gameComponent/majiang/HuAlgorithm
+/app/gameComponent/majiang/HuAlgorithm/tbl
+/app/gameComponent/niuniu
+/app/gameComponent/sangong
+/app/gameComponent/dougongniu
+/app/gameComponent/sanzhang

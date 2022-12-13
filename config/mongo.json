@@ -1,0 +1,9 @@
+{
+  "mongo": {
+    "host": "172.18.189.13",
+    "port": 27017,
+    "database": "game",
+    "user": "mongoUser",
+    "password": "mongoPass"
+  }
+}
