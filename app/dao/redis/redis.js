@@ -1,4 +1,4 @@
-﻿let redisClient = module.exports;
+let redisClient = module.exports;
 let redis = require( 'redis' );
 let utils = require( '../../util/utils.js' );
 let code = require('../../constant/code');
